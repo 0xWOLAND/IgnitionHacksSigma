@@ -17,5 +17,3 @@ My submission for the IgnitionHacks (Sigma Division) Hackathon.
 - Use GPT-3 (because its awesome)
 - Visualizing more than just the learning rate optimizer
 
-## Conclusion
-This hackathon was great for me to try to use a brand new ML library that I'm currently learning. Also, the algorithm works pretty effectively and I got it working in only 2 days. If there are any issues with my submission, reach out to me at bhargav.annem@gmail.com or bhargav#4761.
